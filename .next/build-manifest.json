@@ -1,6 +1,6 @@
 {
   "devFiles": [
-    "static/development/dll/dll_29ef5882d12725fb5988.js"
+    "static/development/dll/dll_480001f9ad053fbba533.js"
   ],
   "pages": {
     "/_app": [
@@ -8,18 +8,6 @@
       "static/runtime/main.js"
     ],
     "/_error": [
-      "static/runtime/webpack.js",
-      "static/runtime/main.js"
-    ],
-    "/index": [
-      "static/runtime/webpack.js",
-      "static/runtime/main.js"
-    ],
-    "/notfound": [
-      "static/runtime/webpack.js",
-      "static/runtime/main.js"
-    ],
-    "/": [
       "static/runtime/webpack.js",
       "static/runtime/main.js"
     ]
